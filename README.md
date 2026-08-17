@@ -1,4 +1,7 @@
-# ⚖️ 免責聲明與 AI 輔助說明 | Disclaimer & AI-Assisted Development Disclosure
+# Analemma
+3D 天球日行跡模擬器
+
+## ⚖️ 免責聲明與 AI 輔助說明 | Disclaimer & AI-Assisted Development Disclosure
 
 ### 中文版
 本專案為個人學習與技術探索之成果。開發過程中使用了 **生成式 AI 工具** 輔助編寫代碼、邏輯優化及錯誤排除。
