@@ -1,5 +1,5 @@
 # Analemma
-3D 天球日行跡模擬器
+[3D 天球日行跡模擬器](https://zh-hant.github.io/Analemma/)
 
 ## ⚖️ 免責聲明與 AI 輔助說明 | Disclaimer & AI-Assisted Development Disclosure
 
